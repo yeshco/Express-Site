@@ -1,0 +1,122 @@
+{"projects" : [
+  {
+    "id" : 1,
+    "project_name" : "Random Quote Generator",
+    "description" : "A simple application on the browser that displays an array of quotes one at a time",
+    "technologies" : [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "live_link" : "https://yeshco.github.io/random-quote/",
+    "github_link" : "https://github.com/yeshco/random-quote",
+    "image_urls" : [
+      "../static/img/Square/1.png",
+      [
+        "../static/img/Rectangular/1/1.png",
+        "../static/img/Rectangular/1/2.png",
+        "../static/img/Rectangular/1/3.png"
+      ]
+    ]
+  },
+  {
+    "id" : 2,
+    "project_name" : "Pagination Filter",
+    "description" : "Using JavaScript to dynamically change the contents of the page ",
+    "technologies" : [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "live_link" : "https://yeshco.github.io/pagination-filter/",
+    "github_link" : "https://github.com/yeshco/pagination-filter",
+    "image_urls" : [
+      "../static/img/Square/2.png",
+      [
+        "../static/img/Rectangular/2/1.png",
+        "../static/img/Rectangular/2/2.png",
+        "../static/img/Rectangular/2/3.png"
+      ]
+    ]
+  },
+  {
+    "id" : 3,
+    "project_name" : "Interactive Form",
+    "description" : "Creating a form to learn the principles of sending data",
+    "technologies" : [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "live_link" : "https://yeshco.github.io/interactive-form/",
+    "github_link" : "https://github.com/yeshco/interactive-form",
+    "image_urls" : [
+      "../static/img/Square/3.png",
+      [
+        "../static/img/Rectangular/3/1.png",
+        "../static/img/Rectangular/3/2.png",
+        "../static/img/Rectangular/3/3.png"
+      ]
+    ]
+  },
+  {
+    "id" : 4,
+    "project_name" : "Tic-Tac-Toe",
+    "description" : "A game of Tic-Tac-Toe bulit using javascript",
+    "technologies" : [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "CSS and SVG animations"
+    ],
+    "live_link" : "https://yeshco.github.io/Tic-Tac-Toe/",
+    "github_link" : "https://github.com/yeshco/Tic-Tac-Toe",
+    "image_urls" : [
+      "../static/img/Square/4.png",
+      [
+        "../static/img/Rectangular/4/1.png",
+        "../static/img/Rectangular/4/2.png",
+        "../static/img/Rectangular/4/3.png"
+      ]
+    ]
+  },
+  {
+    "id" : 5,
+    "project_name" : "Employee Directory using a public API",
+    "description" : "An employee directory that uses ajax to get the employees list from a public API",
+    "technologies" : [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "AJAX",
+      "API's"
+    ],
+    "live_link" : "https://yeshco.github.io/Public-API-Request/",
+    "github_link" : "https://github.com/yeshco/Public-API-Request",
+    "image_urls" : [
+      "../static/img/Square/5.png",
+      [
+        "../static/img/Rectangular/5/1.png",
+        "../static/img/Rectangular/5/2.png",
+        "../static/img/Rectangular/5/3.png"
+      ]
+    ]
+  },
+  {
+    "id" : 6,
+    "project_name" : "Content Scraper",
+    "description" : "Using Node and npms this scrapes the elements of a site and creates a file with the data",
+    "technologies" : [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Nodejs",
+      "npm"
+    ],
+    "live_link" : "Not applicable",
+    "github_link" : "https://github.com/yeshco/Content-Scraper",
+    "image_urls" : [
+      "../static/img/Square/6.png"
+    ]
+  }
+  ]}

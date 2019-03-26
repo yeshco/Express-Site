@@ -1,0 +1,10 @@
+extends layout.pug
+
+block content
+  #notfound
+    .notfound
+      .notfound-404
+        h1= error.status
+        h2= error
+      a(href='/') Homepage
+      p= error.stack

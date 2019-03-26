@@ -113,10 +113,13 @@
       "Nodejs",
       "npm"
     ],
-    "live_link" : "Not applicable",
+    "live_link" : "/notafilethere",
     "github_link" : "https://github.com/yeshco/Content-Scraper",
     "image_urls" : [
-      "../static/img/Square/6.png"
+      "../static/img/Square/6.png",
+      [
+        "../static/img/Rectangular/6/6.png"
+      ]
     ]
   }
   ]}
